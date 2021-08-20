@@ -1,2 +1,2 @@
 # Hello-World
-My first Repository on the introduction to Machine Learning by Hamoye
+My first ever Repository. This is to show my project/Task during my Data Science Internship at Hamoye 
